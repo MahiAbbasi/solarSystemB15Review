@@ -6,6 +6,13 @@ public class Main {
         solar.moon="2";
         solar.sun="1";
 
+        sun fero=new sun();
+        fero.color="red";
+        fero.temperature=23423;
+        fero.heat="323441332";
+        
+
+
 
 
     }
